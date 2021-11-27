@@ -17,4 +17,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EasyWashApp.Dominio\EasyWashApp.Dominio.csproj" />
+  </ItemGroup>
+
 </Project>

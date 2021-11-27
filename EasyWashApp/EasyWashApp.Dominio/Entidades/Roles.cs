@@ -1,6 +1,6 @@
 using System;
 
-namespace EasyWash.App.Dominio
+namespace EasyWashApp.Dominio
 {
     /// <summary>
     /// Lista de Roles

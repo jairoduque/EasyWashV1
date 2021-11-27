@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace EasyWash.App.Dominio
+namespace EasyWashApp.Dominio
 {
     public class Trabajador : Persona
     {

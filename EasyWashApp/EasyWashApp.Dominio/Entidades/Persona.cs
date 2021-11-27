@@ -1,5 +1,5 @@
 using System;
-namespace EasyWash.App.Dominio
+namespace EasyWashApp.Dominio
 {
     public class Persona
     {
