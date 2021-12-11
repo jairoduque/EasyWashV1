@@ -11,4 +11,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EasyWashApp.Dominio\EasyWashApp.Dominio.csproj" />
+    <ProjectReference Include="..\EasyWashApp.Persistencia\EasyWashApp.Persistencia.csproj" />
+  </ItemGroup>
+
 </Project>

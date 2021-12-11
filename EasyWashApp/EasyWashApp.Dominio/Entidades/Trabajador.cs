@@ -14,5 +14,6 @@ namespace EasyWashApp.Dominio
         public string Estado_trab {get; set;}
         public string Porcen_trab {get; set;}
         public Roles Roles {get; set;}
+        
     }
 }
