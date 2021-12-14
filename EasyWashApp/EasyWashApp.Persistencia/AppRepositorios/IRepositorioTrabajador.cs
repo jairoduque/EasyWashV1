@@ -7,5 +7,8 @@ namespace EasyWashApp.Persistencia
     {
         IEnumerable<Trabajador> GetAllTrabajador();
         Trabajador AddTrabajador(Trabajador trabajador);
+        ///Trabajador UpdateTrabajador(Trabajador trabajador);
+        ///void DeleteTrabajador(int idTrabajador);
+        ///Trabajador GetTrabajador(Trabajador idTrabajador);
     }
 }

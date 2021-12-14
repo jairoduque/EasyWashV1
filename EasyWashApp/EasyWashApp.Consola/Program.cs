@@ -44,7 +44,7 @@ namespace EasyWashApp.Consola
                 Console.WriteLine(trabajador.Nom_per);
             }
         }
-        private static void BuscarTrabajador(int idTrabajador)
+        /**private static void BuscarTrabajador(int idTrabajador)
         {
             var trabajador = _repoTrabajdor.GetTrabajaor(idTrabajdor);
             Console.WriteLine(trabajador.Nom_trab);
@@ -53,6 +53,6 @@ namespace EasyWashApp.Consola
         {
             _repoTrabajador.DeleteTrabajador(idTrabajador);
             Console.WriteLine("Trabajador Eliminado");
-        }
+        } **/
     }
 }
